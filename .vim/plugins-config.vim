@@ -45,9 +45,10 @@ let g:UltiSnipsJumpBackwardTrigger="<S-tab>"
 "let g:kite_supported_languages = ['*']
 let g:coc_global_extensions = [
       \ 'coc-tsserver',
-      \ 'coc-clangd',
+"     \ 'coc-clangd',
       \ 'coc-html',
       \ 'coc-json',
+      \ 'coc-tabnine',
       \ 'coc-pyright',
       \ 'coc-css'
       \ ]

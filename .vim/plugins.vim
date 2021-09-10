@@ -39,5 +39,8 @@ Plug 'mhinz/vim-signify'
 Plug 'yggdroot/indentline'
 Plug 'scrooloose/nerdcommenter'
 
+" PlatformIO
+Plug 'coddingtonbear/neomake-platformio'
+
 
 call plug#end()
